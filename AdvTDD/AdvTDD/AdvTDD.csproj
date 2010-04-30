@@ -42,6 +42,8 @@
   <ItemGroup>
     <Compile Include="Address.cs" />
     <Compile Include="Configuration.cs" />
+    <Compile Include="IDaveIsSlow.cs" />
+    <Compile Include="MarketingCampaign.cs" />
     <Compile Include="Patient.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using NUnit.Framework;
 using Geocoding;
+using AdvTDD;
+using StructureMap;
 
 namespace TestLibrary
 {
+
     [TestFixture]
     public class BackupPlan
     {

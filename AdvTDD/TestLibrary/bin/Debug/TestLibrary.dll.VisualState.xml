@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VisualState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ShowCheckBoxes="false">
-  <TopNode>[0-1003]C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\TestLibrary.dll</TopNode>
-  <SelectedNode>[0-1001]TestLibrary.BackupPlan.Should_Remember_How_To_Work_With_SM</SelectedNode>
+  <TopNode>[0-1006]C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\TestLibrary.dll</TopNode>
+  <SelectedNode>[0-1005]TestLibrary.MarketingCampaignTests.Should_Geocode_Address_And_Get_Something</SelectedNode>
   <ExcludeCategories>false</ExcludeCategories>
   <Nodes>
-    <Node UniqueName="[0-1003]C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\TestLibrary.dll" Expanded="true" />
-    <Node UniqueName="[0-1004]TestLibrary" Expanded="true" />
+    <Node UniqueName="[0-1006]C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\TestLibrary.dll" Expanded="true" />
+    <Node UniqueName="[0-1007]TestLibrary" Expanded="true" />
     <Node UniqueName="[0-1000]TestLibrary.BackupPlan" Expanded="true" />
+    <Node UniqueName="[0-1003]TestLibrary.MarketingCampaignTests" Expanded="true" />
   </Nodes>
 </VisualState>

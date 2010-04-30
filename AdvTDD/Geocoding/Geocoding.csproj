@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Geocoder.cs" />
     <Compile Include="IAddress.cs" />
+    <Compile Include="IGeocoder.cs" />
     <Compile Include="ILatLong.cs" />
     <Compile Include="LatLong.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

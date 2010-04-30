@@ -1,15 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\TestLibrary.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-04-30" time="11:21:34">
+<test-results name="C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\TestLibrary.dll" total="2" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-04-30" time="14:22:19">
   <environment nunit-version="2.5.2.9222" clr-version="4.0.30319.1" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\source\oz\lib\NUnit" machine-name="THEBEAST" user="Tim" user-domain="TheBeast" />
   <culture-info current-culture="en-US" current-uiculture="en-US" />
-  <test-suite name="C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\TestLibrary.dll" executed="True" success="True" time="0.496" asserts="0">
+  <test-suite name="C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\TestLibrary.dll" executed="True" success="False" time="1.046" asserts="0">
     <results>
-      <test-suite name="TestLibrary" executed="True" success="True" time="0.481" asserts="0">
+      <test-suite name="TestLibrary" executed="True" success="False" time="1.034" asserts="0">
         <results>
-          <test-suite name="BackupPlan" executed="True" success="True" time="0.471" asserts="0">
+          <test-suite name="MarketingCampaignTests" executed="True" success="False" time="0.937" asserts="0">
             <results>
-              <test-case name="TestLibrary.BackupPlan.Should_Remember_How_To_Work_With_SM" executed="True" success="True" time="0.456" asserts="0" />
+              <test-case name="TestLibrary.MarketingCampaignTests.Should_Construct_With_Geocoder" executed="True" success="True" time="0.840" asserts="1" />
+              <test-case name="TestLibrary.MarketingCampaignTests.Should_Geocode_Address_And_Get_Something" executed="True" success="False" time="0.082" asserts="0">
+                <failure>
+                  <message><![CDATA[Rhino.Mocks.Exceptions.ExpectationViolationException : IGeocoder.GeocodeAddress(any); Expected #1, Actual #0.]]></message>
+                  <stack-trace><![CDATA[at Rhino.Mocks.Impl.ReplayMockState.Verify()
+at Rhino.Mocks.MockRepository.Verify(Object obj)
+at Rhino.Mocks.RhinoMocksExtensions.VerifyAllExpectations(Object mockObject)
+at TestLibrary.MarketingCampaignTests.Should_Geocode_Address_And_Get_Something() in C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\MarketingCampaignTests.cs:line 57
+]]></stack-trace>
+                </failure>
+              </test-case>
             </results>
           </test-suite>
         </results>

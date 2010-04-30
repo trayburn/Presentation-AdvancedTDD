@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Geocoding
 {
-    public class Geocoder
+    public class Geocoder : IGeocoder
     {
         public ILatLong GeocodeAddress(IAddress address)
         {
