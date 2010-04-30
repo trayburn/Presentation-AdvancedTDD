@@ -1,0 +1,7 @@
+C:\source\Presentation-AdvancedTDD\AdvTDD\AdvTDD\bin\Debug\AdvTDD.dll
+C:\source\Presentation-AdvancedTDD\AdvTDD\AdvTDD\bin\Debug\AdvTDD.pdb
+C:\source\Presentation-AdvancedTDD\AdvTDD\AdvTDD\obj\Debug\ResolveAssemblyReference.cache
+C:\source\Presentation-AdvancedTDD\AdvTDD\AdvTDD\obj\Debug\AdvTDD.dll
+C:\source\Presentation-AdvancedTDD\AdvTDD\AdvTDD\obj\Debug\AdvTDD.pdb
+C:\source\Presentation-AdvancedTDD\AdvTDD\AdvTDD\bin\Debug\Geocoding.dll
+C:\source\Presentation-AdvancedTDD\AdvTDD\AdvTDD\bin\Debug\Geocoding.pdb

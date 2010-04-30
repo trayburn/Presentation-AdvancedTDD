@@ -1,0 +1,14 @@
+C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\TestLibrary.dll
+C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\nunit.framework.dll
+C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\Rhino.Mocks.dll
+C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\Rhino.Mocks.xml
+C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\obj\Debug\TestLibrary.dll
+C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\AdvTDD.dll
+C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\Geocoding.dll
+C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\StructureMap.dll
+C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\AdvTDD.pdb
+C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\Geocoding.pdb
+C:\source\Presentation-AdvancedTDD\AdvTDD\TestLibrary\bin\Debug\StructureMap.xml
